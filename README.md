@@ -46,4 +46,6 @@ git clone https://github.com/MiguelData2030/PROYECTO_FACTURAS-.git
 cd PROYECTO_FACTURAS-
 
 ![image](https://github.com/user-attachments/assets/7cc81773-e8db-4f0d-80eb-eda9c7293dc0)
+![image](https://github.com/user-attachments/assets/f6e6fea2-4f37-42cc-9ce0-0c98cb3ba14c)
+
 
